@@ -1,4 +1,3 @@
-# git_ex_repo
 # Git Basics (commit, diff, branches)
 
 1.echo "1" >> abc.txt
